@@ -3,12 +3,13 @@ This is a workshop for the California Map Society fall meeting 2017 at UCLA. Thi
 
 # [Presentation Slides](http://slides.com/omarureta/maptimela_10-11#/)
 
-Go to the [wiki for workshop outline and tutorials](https://github.com/andyrutkowski/storymap_workshop/wiki).
+Go to the [wiki for workshop outline and tutorials](https://github.com/andyrutkowski/storymap_workshop/wiki). (should remove)
 
 ###  1. What's a storymap?
 * The basic elements for a good storymap
 ###  2. Now how can we digitize scanned maps?
 * Georeferencing basics
+* Using Georeferencer
 ###  3. So where can we store them?
 * Storing georeferenced maps online
 * Using [Mapbox](http://www.mapbox.com) to host georeferenced images
