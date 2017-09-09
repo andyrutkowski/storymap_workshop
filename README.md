@@ -2,7 +2,6 @@
 This is a workshop for the California Map Society fall meeting 2017 at UCLA. This workshop provides an overview of how to create a storymap. 
 
 # [Presentation Slides](http://slides.com/omarureta/maptimela_10-11#/)
-# You can use the folders in this Github repository labled maps, data, and images to download files for the workshop.
 
 ###  1. What's a storymap? (10min)
 * The basic elements for a good storymap
